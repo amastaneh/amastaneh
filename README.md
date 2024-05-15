@@ -10,12 +10,12 @@ Here's a snapshot of my tech toolkit:
 I excel at creating intuitive, timely, and cost-effective solutions. Aiming to blend software architecture with development. 🛠️
 Feel free to reach out for tech talks or collaborations! 📞
 
-🔗 GitHub: [github.com/amastaneh](github.com/amastaneh) \
-🔗 LinkedIn: [linkedin.com/in/amastaneh](linkedin.com/in/amastaneh) \
-📚 Google Scholar: [scholar.google.ca/citations?user=lqZYW6sAAAAJ&hl=en](scholar.google.ca/citations?user=lqZYW6sAAAAJ&hl=en) \
-📸 Instagram: [instagram.com/amastaneh](instagram.com/amastaneh) \
-💬 StackOverflow: [stackoverflow.com/users/577543/amir-astaneh](stackoverflow.com/users/577543/amir-astaneh) \
-👤 Facebook: [facebook.com/amastaneh](facebook.com/amastaneh) 
+🔗 GitHub: [github.com/amastaneh](https://github.com/amastaneh) \
+🔗 LinkedIn: [linkedin.com/in/amastaneh](https://linkedin.com/in/amastaneh) \
+📚 Google Scholar: [scholar.google.ca/citations?user=lqZYW6sAAAAJ&hl=en](https://scholar.google.ca/citations?user=lqZYW6sAAAAJ&hl=en) \
+📸 Instagram: [instagram.com/amastaneh](https://instagram.com/amastaneh) \
+💬 StackOverflow: [stackoverflow.com/users/577543/amir-astaneh](https://stackoverflow.com/users/577543/amir-astaneh) \
+👤 Facebook: [facebook.com/amastaneh](https://facebook.com/amastaneh) 
 
 🇨🇦 CA: +1 (416) 460-3070 \
 🇺🇸 US: +1 (347) 338-0789 \
