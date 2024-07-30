@@ -24,4 +24,4 @@ Feel free to reach out for collaborations, tech talks, or any project inquiries!
 🇨🇦 CA: +1 (416) 460-3070 \
 🇺🇸 US: +1 (347) 338-0789 \
 📧 Email: amastaneh@gmail.com \
-📍 Address: 85 Queens Wharf Rd, Toronto, ON 
+📍 Address: 200 Redpath Ave, Toronto, ON 
