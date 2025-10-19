@@ -13,11 +13,12 @@ Hello! I'm Amir, a Software Developer passionate about Frontend Development usin
 ### Contact Information:
 - **GitHub:** [github.com/amastaneh](https://github.com/amastaneh)
 - **LinkedIn:** [linkedin.com/in/amastaneh](https://linkedin.com/in/amastaneh)
+- **Google Developer:** [g.dev/amastaneh](https://g.dev/amastaneh)
 - **Google Scholar:** [scholar.google.ca/citations?user=lqZYW6sAAAAJ&hl=en](https://scholar.google.ca/citations?user=lqZYW6sAAAAJ&hl=en)
-- **Instagram:** [instagram.com/amastaneh](https://instagram.com/amastaneh)
 - **StackOverflow:** [stackoverflow.com/users/577543/amir-astaneh](https://stackoverflow.com/users/577543/amir-astaneh)
-- **Facebook:** [facebook.com/amastaneh](https://facebook.com/amastaneh)
 - **ORCID:** [https://orcid.org/0000-0002-2221-4275](https://orcid.org/0000-0002-2221-4275)
+- **Instagram:** [instagram.com/amastaneh](https://instagram.com/amastaneh)
+- **Facebook:** [facebook.com/amastaneh](https://facebook.com/amastaneh)
 
 Feel free to reach out for collaborations, tech talks, or any project inquiries! 📞
 
