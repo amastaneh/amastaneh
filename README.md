@@ -2,13 +2,14 @@
 Hello! I'm Amir, a Software Developer passionate about Frontend Development using React and related technologies. 🌐
 
 ### Technical Expertise:
-- **Frontend Technologies:** React.js, Node.js, Next.js, JSX, Bootstrap, Tailwind CSS.
-- **Cloud Platforms:** AWS (Amplify, Elastic Beanstalk, DynamoDB, DocumentDB, EC2, RDS, SES, S3, Bedrock, OpenSearch), Azure, and GCP.
-- **Programming Languages:** C, C++, gcc, C#, JavaScript, TypeScript, SQL, PHP and TASM.
-- **Frameworks:** SQL/T-SQL/LINQ, ASP.NET MVC, WPF, WinForms, WordPress/WooCommerce REST API, Vue.js, Webflow, Adobe Edge, jQuery.
-- **Databases:** MS-SQL, SQLite, MySQL, RavenDB, DynamoDB, DocumentDB, SQL CE.
+- **Technologies:** React.js, Next.js, Gatsby, Node.js, Next.js, Express.js, Bootstrap, Tailwind CSS.
+- **AI/LLMs:** MCP, Apps SDK, OpenAI GPTs, Retell AI, Google Gemini, Anthropic Claude, xAI Grok.
+- **Cloud Platforms:** AWS (Amplify, Elastic Beanstalk, DynamoDB, DocumentDB, EC2, RDS, SES, S3, Bedrock, OpenSearch), Azure, GCP, and Firebase.
+- **Programming Languages:** gcc, C, C++, C#, JavaScript, TypeScript, T-SQL, PHP and TASM.
+- **Databases:** MS-SQL, RDS, MySQL, Firestore, DynamoDB, DocumentDB, SQLite, RavenDB, and SQL CE.
+- **Frameworks:** MS-SQL, T-SQL, LINQ, ASP.NET MVC, WPF, WinForms, WordPress/WooCommerce REST API, Vue.js, Webflow, Adobe Edge, jQuery.
 - **Methodologies & Practices:** Agile/Scrum, MVVM, SOP, MVC, and Client/Server Architecture.
-- **Additional Skills:** OpenAI API, Telegram Bot API, Chrome Extension Developer, NuGet Package Developer, OJS plug-ins Developer, LG SmartTV SDK Developer, Bolt/WP CMS, Webflow React, Power Automate, Vagrant, PKP OJS, Cloudflare Workers, Matrox Matrox DSX SDK Developer (Matrox DigiSuite SDK, Auto Crawl/CG), Inscriber RTX, DirectShow/DirectX, Bank Cheque OCR, Harris/Leitch Audio Router Developer, RADIUS RFC2865 RFC2866 Developer, WPF XAML, AT-Command GSM, Morfit 3D Game Engine, HPE Tape Library and Tape Drive Developer, EEG Developer. 
+- **Additional Skills:** Telegram Bot API, Chrome Extension Developer, NuGet Package Developer, OJS plug-ins Developer, LG SmartTV SDK Developer, Bolt CMS, Webflow React, Power Automate, Vagrant, PKP OJS, Cloudflare Workers, Matrox Matrox DSX SDK Developer (Matrox DigiSuite SDK, Auto Crawl/CG), Inscriber RTX, DirectShow/DirectX, Bank Cheque OCR, Harris/Leitch Audio Router Developer, RADIUS RFC2865 RFC2866 Developer, WPF XAML, AT-Command GSM, Morfit 3D Game Engine, HPE Tape Library and Tape Drive Developer, EEG Developer. 
 
 ### Contact Information:
 - **GitHub:** [github.com/amastaneh](https://github.com/amastaneh)
